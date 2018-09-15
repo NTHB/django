@@ -1,6 +1,6 @@
 # Django
 
-Welcome to the Directed study topic
+The web framework for perfectionists with deadlines
 
 ### Resource
 - https://www.lynda.com/Django-tutorials/Learning-Django/656811-2.html?org=langara.ca
@@ -8,3 +8,4 @@ Welcome to the Directed study topic
 - https://docs.djangoproject.com/en/1.10/intro/overview/
 
 
+![django Logo](https://www.djangoproject.com/s/img/logos/django-logo-positive.svg)
