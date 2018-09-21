@@ -50,3 +50,29 @@ As mentioned above, Django provides extra tools or features to help building web
 The simple workflow of how Django works is shown below:
 
 ![django workflow](https://qph.fs.quoracdn.net/main-qimg-23768cfe8a5c4be3c6b6d26611b8d651.webp)
+*[source:https://www.quora.com/What-exactly-is-the-Django-framework-and-how-does-it-work](https://www.quora.com/What-exactly-is-the-Django-framework-and-how-does-it-work)*
+
+When web server is requested by client, the request is passed to Django. Django tries to figure out what to do with web page address. This process is done by _URL RESOLUTION_ and then start to creating _View_ by passing request and related function.
+
+At this point, the data and information are transferred back and forth from database. After that Django will compose with template to create html page for returnning back to client as it has been requested for. 
+
+### Conclusion
+Django is a framework written in Python language and it provides pre-build tool to help developing web application easier and faster.
+
+
+## PROJECT
+
+# Blog JOURNAL
+
+![project Logo](/images/project_logo.png)
+
+__Write everything…__
+
+It is a web application which able to let user create
+journal or blog to display on website.
+
+
+__Manage with Django…__
+
+With extra tool from Django, managing content in
+website can be easier than before
