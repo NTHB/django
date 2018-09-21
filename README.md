@@ -13,16 +13,21 @@ The web framework for perfectionists with deadlines
 
 ## Why Django?
  - **FAST**
+
 Django was designed to help developer create application as quick as possible
 
 - **WELL PACKED**
+
 Django is fully loaded with extra tools to make handling common Web development tasks such as content administration, authentication and so on
 
 - **SECURE**
+
 Django helps developers avoid many common security mistake such as SQL injection, clickjacking etc.
 
 - **SCALABLE**
+
 Django can be scaled quickly to meet the busy traffic demands
+
 
 As mentioned above, Django provides extra tools or features to help building website. Here are the main features from Django:
 
@@ -39,3 +44,9 @@ As mentioned above, Django provides extra tools or features to help building web
 11. Geographic framework
 12. Common Web Application Tools
 13. Other Core Functionalities
+
+## How does it work?
+
+The simple workflow of how Django works is shown below:
+
+![django workflow](https://qph.fs.quoracdn.net/main-qimg-23768cfe8a5c4be3c6b6d26611b8d651.webp)
