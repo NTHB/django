@@ -79,8 +79,21 @@ website can be easier than before
 
 ## USER STORY
 
-As a user,I would like to write a blog for myself and share with everyone in a website.
-As a user, I want to add pictures to the artcle I wrote.
-As a developer, I want to create a authentication for my website.
-As a developer, I prefer to maintain content in my site using Django.
-As a developer, I would rather explore more funtionalites to create blog writing website.
+###As a user,
+
+
+I would like to write a blog for myself and share with everyone in a website.
+
+
+I want to add pictures to the artcle I wrote.
+
+
+###As a developer, 
+
+I want to create a authentication for my website.
+
+
+I prefer to maintain content in my site using Django.
+
+
+I would rather explore more funtionalites to create blog writing website.
