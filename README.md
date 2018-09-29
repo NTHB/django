@@ -79,7 +79,7 @@ website can be easier than before
 
 ## USER STORY
 
-###As a user,
+### As a user,
 
 
 I would like to write a blog for myself and share with everyone in a website.
@@ -88,7 +88,7 @@ I would like to write a blog for myself and share with everyone in a website.
 I want to add pictures to the artcle I wrote.
 
 
-###As a developer, 
+### As a developer, 
 
 I want to create a authentication for my website.
 
