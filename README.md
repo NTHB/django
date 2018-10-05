@@ -111,7 +111,7 @@ I would like to create a small web application which could be used to write Blog
 
 This week, I did a working environment setting and an installations to start creating web application. I tested to run server with Django framework which was successful. 
 
-Something that did not work well is that version of Python and Django. In my machine, I used PIP operation install which I got an error at first place, then I figured out that it is because of my PIP version is too old after upgraded to latest version everythings worked as it should be.
+Something that did not work well is that version of Python and Django. In my machine, I used PIP operation to install which I got an error at first place, then I figured out that, because of my PIP version was too old. After upgraded to latest version everythings worked well as it should be.
 
 The interesting things is the virtual working environment. I have to run Django in virtual environment and has to be activated every times before running server.
 
