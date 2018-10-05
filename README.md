@@ -120,4 +120,5 @@ The interesting things is the virtual working environment. I have to run Django 
 I would like to create backend function to be the fundamental of the web application which is Models, and Views.
 
 ### Back Log for Oct 5,
-![BackLog Oct 5](https://github.com/NTHB/django/blob/master/images/Oct5_Backlog.png)
+![BackLog Oct 5](https://raw.githubusercontent.com/NTHB/django/master/images/Oct5_Backlog.png)
+      
