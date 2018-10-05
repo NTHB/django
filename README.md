@@ -8,7 +8,7 @@ The web framework for perfectionists with deadlines
 - [Django Documents](https://docs.djangoproject.com/en/1.10/intro/overview/)
 
 ### Progress Report
-- [Oct 5,2018]()
+- [Oct 5,2018](https://github.com/NTHB/django/blob/master/README.md#friday-oct-5th-2018)
 
 # What is Django?
 
