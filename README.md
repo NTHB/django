@@ -7,6 +7,9 @@ The web framework for perfectionists with deadlines
 - [Djangoproject](https://www.djangoproject.com/start/)
 - [Django Documents](https://docs.djangoproject.com/en/1.10/intro/overview/)
 
+### Progress Report
+- [Oct 5,2018]()
+
 # What is Django?
 
 **Django** is a high-level framework for developing website application with **Python** language which can help you creating website faster and easier by reducing the obstrucles in web development. And yes, it's **free** and *open source*.
@@ -96,4 +99,25 @@ I want to create a authentication for my website.
 I prefer to maintain content in my site using Django.
 
 
-I would rather explore more funtionalites to create blog writing website.
+I would rather explore more funtionalites about Rest API with Django REST Framework.
+
+
+## Friday, Oct 5th, 2018
+
+
+### Retrospectives
+
+I would like to create a small web application which could be used to write Blog or Journal. Users must login first and then start creating his/her own blog. User may attach some pictures to the blog. As a admin, Managing contents(Blog) can be done backend using Django content management with authorization.
+
+This week, I did a working environment setting and an installations to start creating web application. I tested to run server with Django framework which was successful. 
+
+Something that did not work well is that version of Python and Django. In my machine, I used PIP operation install which I got an error at first place, then I figured out that it is because of my PIP version is too old after upgraded to latest version everythings worked as it should be.
+
+The interesting things is the virtual working environment. I have to run Django in virtual environment and has to be activated every times before running server.
+
+### Next Week
+
+I would like to create backend function to be the fundamental of the web application which is Models, and Views.
+
+### Back Log for Oct 5,
+![BackLog Oct 5](https://github.com/NTHB/django/blob/master/images/Oct5_Backlog.png)
