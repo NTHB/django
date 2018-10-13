@@ -9,6 +9,7 @@ The web framework for perfectionists with deadlines
 
 ### Progress Report
 - [Oct 5,2018](https://nthb.github.io/django/#friday-oct-5th-2018)
+- [Oct 12,2018](https://github.com/NTHB/django#friday-oct-12th-2018)
 
 # What is Django?
 
@@ -140,7 +141,7 @@ Homepage
 
 List of posts at in backend
 
-![Go to live site](https://tahsuper.pythonanywhere.com/)
+[Go to live site](https://tahsuper.pythonanywhere.com/)
 
 #### Things which went well...
 
