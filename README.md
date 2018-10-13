@@ -121,4 +121,40 @@ I would like to create backend function to be the fundamental of the web applica
 
 ### Back Log for Oct 5,
 ![BackLog Oct 5](https://raw.githubusercontent.com/NTHB/django/master/images/Oct5_Backlog.png)
+
+
+
+## Friday, Oct 12th, 2018
       
+### Retrospectives
+
+This week, I created prototype which is Blog web application using Django as a backend. There is built-in database, sqlite3, where content of the website stores inside. I query the content and combine with other components such as views.py and other static resources for example CSS files.I established authentication for user to login into web application and create the content including admin to manage entire content from backend.
+
+#### Screenshot
+
+![homepage](https://raw.githubusercontent.com/NTHB/django/master/images/Blog_list%20_screenshot.png)
+
+Homepage
+
+![post_List](https://raw.githubusercontent.com/NTHB/django/master/images/post_list_admin.png)
+
+List of posts at in backend
+
+![Go to live site](https://tahsuper.pythonanywhere.com/)
+
+#### Things which went well...
+
+- Everything built-in for web application development from Django is fast and almost ready to use instantly.
+
+- I can use pythonanywhere.com to host my web application for free with limited resource.
+
+#### Concerns...
+
+- I tried to connect external database such as mysql and there is some difficulty to achieve
+
+- There are many aspects to learn for mastering in Django
+
+- Our project will use Django REST api framework to provide data to front-end, so there are more documents to study
+
+### Back Log for Oct 12,
+![BackLog Oct 12](https://raw.githubusercontent.com/NTHB/django/master/images/Oct12_Backlog.png)
