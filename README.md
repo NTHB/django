@@ -159,3 +159,52 @@ List of posts at in backend
 
 ### Back Log for Oct 12,
 ![BackLog Oct 12](https://raw.githubusercontent.com/NTHB/django/master/images/Oct12_Backlog.png)
+
+## Friday, Oct 19th, 2018
+
+## Project User Story
+
+### As a Tenant users,
+
+
+I would like to find a place for living.
+
+I would like to register for creating user account.
+
+I would like to create a resume for applying home renting.
+
+I would like to look through the list of properties.
+
+I would like to contract the landlord of interesting properties.
+
+### As a Landlord users,
+
+I would like to announce my properties.
+
+I would like to see a risk assessment for tenant who interested in my properties.
+
+I would like to see a dashboard of all my related property information.
+
+I would like to invite interesting tenant to be my tenant.
+
+I would like to register for user account.
+
+I would like to register my properties for renting purpose.
+
+I would like to manage my properties in one place.
+
+### As a developer, 
+
+We want to create a authentication for our web application.
+
+We prefer to maintain content in our site using Django.
+
+We provide data using Django Restframework API.
+
+We would like to display our web application using React.
+
+Django will be our core framework for back-end written in Python.
+
+We would like to display information in infographic and data visualization.
+
+We use mysql as our database to contain information.
