@@ -11,6 +11,7 @@ The web framework for perfectionists with deadlines
 - [Oct 5,2018](https://nthb.github.io/django/#friday-oct-5th-2018)
 - [Oct 12,2018](https://nthb.github.io/django/#friday-oct-12th-2018)
 - [Project User Story](https://nthb.github.io/django/#project-user-story)
+- [20% Progress Report: Oct 26,2018](https://nthb.github.io/django/#friday-oct-26th-2018)
 
 # What is Django?
 
@@ -209,3 +210,24 @@ Django will be our core framework for back-end written in Python.
 We would like to display information in infographic and data visualization.
 
 We use mysql as our database to contain information.
+
+
+## Friday, Oct 26th, 2018
+
+
+### Retrospectives
+
+This week I tried to use Django Restframework API so that I can publish information from back-end to front-end as a JSON format.So I can query from mysql database using this framework and send to client web browser as following figures.
+
+#### Screenshot of Properties List
+![properties_list](https://raw.githubusercontent.com/NTHB/django/master/images/properties_list.png)
+
+#### Screenshot of Property Detail
+![property_detail](https://raw.githubusercontent.com/NTHB/django/master/images/property_detail.png)
+
+### Next Week
+
+I will try to manage url routing, then I can organize the entire struture of this web application.
+
+### 20% Progress Report  for Oct 5,
+![BackLog Oct 26](https://raw.githubusercontent.com/NTHB/django/master/images/Oct26_Backlog.png)
