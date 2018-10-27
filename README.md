@@ -229,5 +229,5 @@ This week I tried to use Django Restframework API so that I can publish informat
 
 I will try to manage url routing, then I can organize the entire struture of this web application.
 
-### 20% Progress Report  for Oct 5,
+### 20% Progress Report  for Oct 26th,
 ![BackLog Oct 26](https://raw.githubusercontent.com/NTHB/django/master/images/Oct26_Backlog.png)
