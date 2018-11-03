@@ -12,6 +12,7 @@ The web framework for perfectionists with deadlines
 - [Oct 12,2018](https://nthb.github.io/django/#friday-oct-12th-2018)
 - [Project User Story](https://nthb.github.io/django/#project-user-story)
 - [20% Progress Report: Oct 26,2018](https://nthb.github.io/django/#friday-oct-26th-2018)
+- [40% Progress Report: Nov 2,2018](https://nthb.github.io/django/#friday-nov-2nd-2018)
 
 # What is Django?
 
@@ -231,3 +232,18 @@ I will try to manage url routing, then I can organize the entire struture of thi
 
 ### 20% Progress Report  for Oct 26th,
 ![BackLog Oct 26](https://raw.githubusercontent.com/NTHB/django/master/images/Oct26_Backlog.png)
+
+
+## Friday, Nov 2nd, 2018
+
+
+### Retrospectives
+
+This week I finish routing with urls for backend Django response. All information will be pass in Rest API of JSON file format.
+
+### Next Week
+
+Since our project use React framework as a frontend, so to integrate with current backend, we pass the information back and forth using Rest API. For next week, I would like to learn about React so that I can understand and intergrate with other parts from my team with ease.
+
+### 40% Progress Report  for Nov 2nd,
+![BackLog_Nov_2](https://raw.githubusercontent.com/NTHB/django/master/images/Nov2_Backlog.png)
