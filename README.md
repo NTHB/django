@@ -267,7 +267,7 @@ Main Page
 
 ### Demo
 
-![django_react_demo](https://youtu.be/Clx_2aQ8UsM)
+[![django_react_demo](https://raw.githubusercontent.com/NTHB/django/master/images/Visual_Cue.png)](https://youtu.be/Clx_2aQ8UsM)
 
 ### Next Week
 
