@@ -267,7 +267,7 @@ Main Page
 
 ### Demo
 
-[![django_react_demo](https://raw.githubusercontent.com/NTHB/django/master/images/React_ListView_Screenshot.png)](https://youtu.be/Clx_2aQ8UsM)
+![django_react_demo](https://youtu.be/Clx_2aQ8UsM)
 
 ### Next Week
 
