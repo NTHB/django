@@ -257,6 +257,18 @@ Since our project use React framework as a frontend, so to integrate with curren
 
 This week I finish integrating basic React for creating article components as my front-end. All information from Django is passed in Rest API of JSON file format and then read by Axios library using get method. 
 
+### Screenshots
+
+Rest API
+![API_Listview](https://raw.githubusercontent.com/NTHB/django/master/images/API_ListView_Screenshot.png)
+
+Main Page
+![Main_Page_Listview](https://raw.githubusercontent.com/NTHB/django/master/images/React_ListView_Screenshot.png)
+
+### Demo
+
+[![django_react_demo](https://raw.githubusercontent.com/NTHB/django/master/images/React_ListView_Screenshot.png)](https://youtu.be/Clx_2aQ8UsM)
+
 ### Next Week
 
 Using form for creating input channal so that users can create article in the web application.
