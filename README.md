@@ -13,6 +13,7 @@ The web framework for perfectionists with deadlines
 - [Project User Story](https://nthb.github.io/django/#project-user-story)
 - [20% Progress Report: Oct 26,2018](https://nthb.github.io/django/#friday-oct-26th-2018)
 - [40% Progress Report: Nov 2,2018](https://nthb.github.io/django/#friday-nov-2nd-2018)
+- [60% Progress Report: Nov 9,2018](https://nthb.github.io/django/#friday-nov-9th-2018)
 
 # What is Django?
 
@@ -247,3 +248,18 @@ Since our project use React framework as a frontend, so to integrate with curren
 
 ### 40% Progress Report  for Nov 2nd,
 ![BackLog_Nov_2](https://raw.githubusercontent.com/NTHB/django/master/images/Nov2_Backlog.png)
+
+
+## Friday, Nov 9th, 2018
+
+
+### Retrospectives
+
+This week I finish integrating basic React for creating article components as my front-end. All information from Django is passed in Rest API of JSON file format and then read by Axios library using get method. 
+
+### Next Week
+
+Using form for creating input channal so that users can create article in the web application.
+
+### 60% Progress Report  for Nov 9th,
+![BackLog_Nov_9](https://raw.githubusercontent.com/NTHB/django/master/images/Nov9_Backlog.png)
