@@ -283,11 +283,11 @@ Using form for creating input channal so that users can create article in the we
 
 ### Retrospectives
 
-This week I finish creating input channal from client and also maintain update, edit or delete feature for exist post. I combine React as a front-end and Django as a back-end using RestAPI Framework.
+This week I finished creating input channal for client site and also maintain update, edit or delete features for exist articles. I combined React as a front-end and Django as a back-end using RestAPI Framework.
 
 ### Next Week
 
-Provide authentication feature to hangle user and maintain security for web application.
+Providing authentication features to handle user and maintain security for web application.
 
 ### 80% Progress Report  for Nov 16th,
 ![BackLog_Nov_16](https://raw.githubusercontent.com/NTHB/django/master/images/Nov16_Backlog.png)
