@@ -14,6 +14,7 @@ The web framework for perfectionists with deadlines
 - [20% Progress Report: Oct 26,2018](https://nthb.github.io/django/#friday-oct-26th-2018)
 - [40% Progress Report: Nov 2,2018](https://nthb.github.io/django/#friday-nov-2nd-2018)
 - [60% Progress Report: Nov 9,2018](https://nthb.github.io/django/#friday-nov-9th-2018)
+- [80% Progress Report: Nov 16,2018](https://nthb.github.io/django/#friday-nov-16th-2018)
 
 # What is Django?
 
@@ -275,3 +276,18 @@ Using form for creating input channal so that users can create article in the we
 
 ### 60% Progress Report  for Nov 9th,
 ![BackLog_Nov_9](https://raw.githubusercontent.com/NTHB/django/master/images/Nov9_Backlog.png)
+
+
+## Friday, Nov 16th, 2018
+
+
+### Retrospectives
+
+This week I finish creating input channal from client and also maintain update, edit or delete feature for exist post. I combine React as a front-end and Django as a back-end using RestAPI Framework.
+
+### Next Week
+
+Provide authentication feature to hangle user and maintain security for web application.
+
+### 80% Progress Report  for Nov 16th,
+![BackLog_Nov_16](https://raw.githubusercontent.com/NTHB/django/master/images/Nov16_Backlog.png)
