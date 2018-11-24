@@ -15,6 +15,7 @@ The web framework for perfectionists with deadlines
 - [40% Progress Report: Nov 2,2018](https://nthb.github.io/django/#friday-nov-2nd-2018)
 - [60% Progress Report: Nov 9,2018](https://nthb.github.io/django/#friday-nov-9th-2018)
 - [80% Progress Report: Nov 16,2018](https://nthb.github.io/django/#friday-nov-16th-2018)
+- [90% Progress Report: Nov 23,2018](https://nthb.github.io/django/#friday-nov-23rd-2018)
 
 # What is Django?
 
@@ -291,3 +292,38 @@ Providing authentication features to handle user and maintain security for web a
 
 ### 80% Progress Report  for Nov 16th,
 ![BackLog_Nov_16](https://raw.githubusercontent.com/NTHB/django/master/images/Nov16_Backlog.png)
+
+
+## Friday, Nov 23rd, 2018
+
+
+### Retrospectives
+
+This week I finished creating authentication features so that users can login and manage their articles.
+
+#### Things that went well
+Currently, web application can handle register and login for any users
+
+#### Things that went wrong
+Web application security is under normal standard which may result in not suitable for deployment in live hosting
+
+#### Interesting
+The library Django-rest-auth is being used and it provides many essential features about authentication when using Rest framework API
+
+#### Things I can do different
+I feel that there must be another way to provide more security and easier way to handle the request from front end.
+
+### Next Week
+
+Deploy web application into Heroku and have minor adjustments about security
+
+### 90% Progress Report  for Nov 23rd,
+![BackLog_Nov_23](https://raw.githubusercontent.com/NTHB/django/master/images/Nov23_Backlog.png)
+
+#### Estimation
+Deployment : 1 day
+Research : 2 days
+Testing : 1 day
+
+#### Velocity
+4 tasks/week
