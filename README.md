@@ -321,9 +321,9 @@ Deploy web application into Heroku and have minor adjustments about security
 ![BackLog_Nov_23](https://raw.githubusercontent.com/NTHB/django/master/images/Nov23_Backlog.png)
 
 #### Estimation
-Deployment : 1 day
-Research : 2 days
-Testing : 1 day
+- Deployment : 1 day
+- Research : 2 days
+- Testing : 1 day
 
 #### Velocity
 4 tasks/week
