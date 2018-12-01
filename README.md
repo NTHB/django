@@ -16,6 +16,7 @@ The web framework for perfectionists with deadlines
 - [60% Progress Report: Nov 9,2018](https://nthb.github.io/django/#friday-nov-9th-2018)
 - [80% Progress Report: Nov 16,2018](https://nthb.github.io/django/#friday-nov-16th-2018)
 - [90% Progress Report: Nov 23,2018](https://nthb.github.io/django/#friday-nov-23rd-2018)
+- [95% Progress Report: Nov 30,2018](https://nthb.github.io/django/#friday-nov-30th-2018)
 
 # What is Django?
 
@@ -327,3 +328,37 @@ Deploy web application into Heroku and have minor adjustments about security
 
 #### Velocity
 4 tasks/week
+
+
+## Friday, Nov 30th, 2018
+
+
+### Retrospectives
+
+This week I did give a presentation about the Django technology we use in our project. It is the same technology as this project which I am implementing. The deploying part is not finished, I have encountered with some problem when trying to deploy to Heroku.
+
+#### Things that went well
+- I fixed some warning and error.
+- The presentation went well.
+
+#### Things that went wrong
+Deploying to Heroku is harder than I though and I am trying to fix this before next week
+
+#### Interesting
+I found out that deploying on cloud service such as Heroku has a differrent approach comparing to the local environment that I am using for development.
+
+#### Things I can do different
+I need to study more about how to properly deploy on cloud service (Heroku)
+
+### Next Week
+
+Keep working on the deployment to heroku to make the project live and ready for demonstation
+
+### 95% Progress Report  for Nov 30th,
+![BackLog_Nov_30](https://raw.githubusercontent.com/NTHB/django/master/images/Nov30_Backlog.png)
+
+#### Estimation
+- Deployment : 4 days
+
+#### Velocity
+fixing warning and error 2 days
