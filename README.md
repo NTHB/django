@@ -17,6 +17,7 @@ The web framework for perfectionists with deadlines
 - [80% Progress Report: Nov 16,2018](https://nthb.github.io/django/#friday-nov-16th-2018)
 - [90% Progress Report: Nov 23,2018](https://nthb.github.io/django/#friday-nov-23rd-2018)
 - [95% Progress Report: Nov 30,2018](https://nthb.github.io/django/#friday-nov-30th-2018)
+- [Final Check In: Dec 7,2018](https://nthb.github.io/django/#friday-dec-7th-2018)
 
 # What is Django?
 
@@ -362,3 +363,37 @@ Keep working on the deployment to heroku to make the project live and ready for 
 
 #### Velocity
 fixing warning and error 2 days
+
+
+## Friday, Dec 7th, 2018
+
+
+### Retrospectives
+
+This semester, I have studied Django as a backend technology and I have used it to integrate with React technology as a frontend for my web application. I gave a try for deploying to heroku cloud platform. Unforunately, with other constraints and time duration, I cannot successfully deploy to that platform. There is an error that prevent React displaying the web application content and I have to time left to debug that. At least, I know how to use python language and React knowledge that I can use in future. If there is a chance I would like to study more about these technology and I hope I can do it better.
+
+I have pushed all my code into this github.
+
+[Link to Heroku](https://journalapp-django-react.herokuapp.com/) 
+//It display only title of the page.
+
+#### Things that went well
+- Web application work well in local machine
+- I can partially deploy to heroku platform
+
+#### Things that went wrong
+- Some error that preventing react properly display web site content
+
+#### Interesting
+It is so hard and consume so much time in deploying process. So next time, I need to carefully plan ahead about deploying process ao that I can recover for unexpected situation the as this current.
+
+#### Things I can do different
+- Carefully plan and better in time estimation in deploying process.
+- Organizing file structure and environment for both local and live site.
+- Have time for unexpected situation.
+
+### Final Check in
+![BackLog_Dec_7](https://raw.githubusercontent.com/NTHB/django/master/images/Dec7_Backlog.png)
+
+#### Velocity
+4 days with half of the goal
